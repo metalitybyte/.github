@@ -4,5 +4,6 @@
 <br>
 <a href="https://metalitybyte.com"><img src="https://img.shields.io/badge/website-lightgreen?style=for-the-badge" /></a>
 <a href="https://discord.gg/CE52BKMpp2"><img src="https://img.shields.io/badge/discord-lightgreen?style=for-the-badge" /></a>
+<a href="https://bsky.app/profile/metalitybyte.com"><img src="https://img.shields.io/badge/bluesky-lightgreen?style=for-the-badge" /></a>
 <a href="https://facebook.com/metalitybyte"><img src="https://img.shields.io/badge/facebook-lightgreen?style=for-the-badge" /></a>
 <a href="https://x.com/metalitybyte"><img src="https://img.shields.io/badge/twitter/x-lightgreen?style=for-the-badge" /></a>
